@@ -21,6 +21,7 @@ To purchase our Anticheat, visit our [Discord](https://discord.gg/2YXvTYkdTM).
 - AI File detection
 - External Modified files detection
 - Detection of many different events like advanced noclip / [Redacted] safe car spawn
+![Feautures](https://media.discordapp.net/attachments/1154413328328831036/1164556950923657216/205290a965abe8b13986ddcb959e9fac2b61f01a.png?ex=6543a52d&is=6531302d&hm=7c946b1df811284b24503c573908ac14edd872818bbb894167bc7d2796c00c07&=&width=1253&height=676)
 
 ### Commands
 Console commands:
