@@ -2,7 +2,7 @@
 
 [![License](https://img.shields.io/badge/License-MysticalAILicense-brightgreen)](https://github.com/Mystic212/MysticalAnticheat/blob/main/LICENSE)
 
-![Mystical Anticheat](https://media.discordapp.net/attachments/1156839011265036339/1164525825266286643/Group_1.png?ex=65438830&is=65311330&hm=662a2e922f26bdd2a170ff18e18df0e5d2b98d2ff177ae4b7e2562b27a176b92&=&width=1155&height=676)
+![Mystical Anticheat](https://media.discordapp.net/attachments/1146785776852553808/1164561877167255683/Halloween_Illustration.png?ex=6543a9c4&is=653134c4&hm=ebac632e0891bc6debc7fb6fa0b3586b0035fe0376571315536363aa06212f35&=&width=1035&height=676)
 ### [PAID] MysticalAnticheat | Where Gaming Integrity Meets Artificial Intelligence | Cheap
 
 ### [Discord]
