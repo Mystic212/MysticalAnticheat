@@ -49,7 +49,7 @@ Console commands:
 ![Ban Screen Preview](https://media.discordapp.net/attachments/1156839011265036339/1164286621378683020/image_7.png?ex=6542a969&is=65303469&hm=f31abf0eadedfbb75643397d37e34ecc1915e5fec88a0f15e53a6adb0ecdf49b&=)
 
 ### Previews
-- ![Preview](https://youtu.be/AyJ1agXbA0g?si=ho1JdxiFPATtddR4)
+- [Preview](https://youtu.be/AyJ1agXbA0g?si=ho1JdxiFPATtddR4)
 
 ### End
 Thank you for considering MysticalAnticheat for your FiveM server. We prioritize a secure and fair gaming environment for all players. Join us in the fight against unfair advantages!
