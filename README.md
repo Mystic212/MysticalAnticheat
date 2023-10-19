@@ -2,16 +2,8 @@
 
 [![License](https://img.shields.io/badge/License-YourLicense-brightgreen)](https://github.com/YourUsername/YourRepository/blob/main/LICENSE)
 
-## Skip to profile content
-
-### Summary
-Activity | Notifications | Messages | Follows | Preferences
-
-### All
-Topics | Replies | Read | Drafts | Pending (1) | Likes | Bookmarks | Reactions | Solved
-
+![Mystical Anticheat](https://media.discordapp.net/attachments/1156839011265036339/1164525825266286643/Group_1.png?ex=65438830&is=65311330&hm=662a2e922f26bdd2a170ff18e18df0e5d2b98d2ff177ae4b7e2562b27a176b92&=&width=1155&height=676)
 ### [PAID] MysticalAnticheat | Where Gaming Integrity Meets Artificial Intelligence | Cheap
-Discussion | 2 hours | Group 1
 
 ### [Discord]
 [MysticalAnticheat Discord](https://discord.gg/2YXvTYkdTM)
